@@ -1,8 +1,5 @@
-# React + Vite
+ScreenShots in MAİN PAGE
+![image](https://github.com/pave5866/TodoList-App/assets/49350752/83432d3f-1aec-403e-ab09-a9c45d899d3b)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+i(İNFO) ScreenShots
+![image](https://github.com/pave5866/TodoList-App/assets/49350752/7c5ffbd5-df35-4257-9c87-4477c9458822)
